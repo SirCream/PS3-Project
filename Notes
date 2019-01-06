@@ -53,5 +53,16 @@ Attempt 3: (w/ iso)('/PS3otheros' file format for petitboot loader)
     Scanning..
     **NO APPLICABLE INSTALLER FOUND**
 
-
+Attempt 4: (FAT) (w/o iso) (USB stick)
+  From an SD card using usb adapter (didnt have USB drive avaible)
+  Formated using MacOS
+  SD file format > Fat 'usbdisk'
+    /Volumes/usbdisk/PS3/otheros/otheros.bld
+  
+  On PS3:
+    Plugged in SD adapter
+    Settings>System Settings>Install Other OS
+    Scanning..
+    FOUND
+    **This data is corrupted (80040002)
 
