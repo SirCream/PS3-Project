@@ -38,6 +38,20 @@ Attempt 2: (w/o iso)
     Settings>System Settings>Install Other OS
     Scanning..
     **NO APPLICABLE INSTALLER FOUND**
+    
+Attempt 3: (w/ iso)('/PS3otheros' file format for petitboot loader)
+  From an SD card using usb adapter (didnt have USB drive avaible)
+  Formated using MacOS
+  SD file format > ExFat 'usbdisk'
+    /Volumes/usbdisk/PS3otheros/otheros.bld
+  Draged in file 'red_ribbon_lxde_14.03.iso'
+    /Volumes/usbdisk/red_ribbon_lxde_14.03.iso
+  
+  On PS3:
+    Plugged in SD adapter
+    Settings>System Settings>Install Other OS
+    Scanning..
+    **NO APPLICABLE INSTALLER FOUND**
 
 
 
