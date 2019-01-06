@@ -1,4 +1,12 @@
+1/4
 Started System Up
 Sucessful boot into OLD version of Linux
   Got to "login" prompt
 Sucessful boot BACK into Game-OS
+
+Problems for next time:
+USB bus shutdowns after linux boot; no way to conrol os
+
+1/5
+Goals:
+Figure out how to control the system once booted into OLD linux
