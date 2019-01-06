@@ -10,3 +10,34 @@ USB bus shutdowns after linux boot; no way to conrol os
 1/5
 Goals:
 Figure out how to control the system once booted into OLD linux
+
+Attempted to create bootable media 
+
+Attempt 1: (w/ iso)
+  From an SD card using usb adapter (didnt have USB drive avaible)
+  Formated using MacOS
+  SD file format > ExFat 'usbdisk'
+    /Volumes/usbdisk/PS3/otheros/otheros.bld
+  Draged in file 'red_ribbon_lxde_14.03.iso'
+    /Volumes/usbdisk/red_ribbon_lxde_14.03.iso
+  
+  On PS3:
+    Plugged in SD adapter
+    Settings>System Settings>Install Other OS
+    Scanning..
+    **NO APPLICABLE INSTALLER FOUND**
+    
+Attempt 2: (w/o iso)
+  From an SD card using usb adapter (didnt have USB drive avaible)
+  Formated using MacOS
+  SD file format > ExFat 'usbdisk'
+    /Volumes/usbdisk/PS3/otheros/otheros.bld
+  
+  On PS3:
+    Plugged in SD adapter
+    Settings>System Settings>Install Other OS
+    Scanning..
+    **NO APPLICABLE INSTALLER FOUND**
+
+
+
